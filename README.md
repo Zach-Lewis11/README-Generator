@@ -8,6 +8,9 @@ The purpose of this challenge is to demonstrate an understanding of Node but cre
 
 ## Usage 
 
+### DEMO
+[APP DEMO](https://watch.screencastify.com/v/vrJ2VBUzptkALl7FzAH6)
+
 To use this app, open the index.js and open the integrated terminal in VS code, once there first they the command " npm init -y " to initialize your index.js file as a node app. Then type in " npm i", if that doesn't work, try " npm i inquirer@8.2.4 ". Once you have done that, simply type " node index.js " to run the app. Doing this should bring up a series of prompts in the console, enter the information you desire to be in you read me in the corresponding prompts. After you have completed all of these steps, a README.md file should appear, open it in preview to see if it correctly entered the information. Use the file as a good base for your next projects README!!
 
 []
